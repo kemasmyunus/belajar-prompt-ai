@@ -30,3 +30,14 @@ Prompt AI adalah instruksi atau perintah yang diberikan kepada model kecerdasan 
   "Teknologi AI telah berkembang pesat dalam dekade terakhir. Dari chatbot hingga mobil otonom, AI terus memberikan dampak signifikan pada kehidupan manusia."
   Sekarang, buat paragraf tentang blockchain dengan gaya yang sama.
   ```
+  
+## 5. Kesalahan Umum dalam Prompting
+- **Prompt Terlalu Umum**: "Jelaskan tentang AI."
+- **Prompt Tidak Jelas**: "Buat tulisan menarik tentang sesuatu yang keren."
+- **Tidak Memberikan Konteks**: "Buat puisi" (tanpa menentukan gaya atau tema).
+
+## 6. Latihan
+Coba buat prompt yang lebih spesifik dari perintah berikut:
+1. "Buat cerita pendek."
+2. "Jelaskan cara kerja komputer."
+3. "Tulis artikel tentang lingkungan."
