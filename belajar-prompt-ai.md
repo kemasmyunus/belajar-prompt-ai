@@ -41,3 +41,13 @@ Coba buat prompt yang lebih spesifik dari perintah berikut:
 1. "Buat cerita pendek."
 2. "Jelaskan cara kerja komputer."
 3. "Tulis artikel tentang lingkungan."
+
+## 7. Tools dan Sumber Belajar
+- OpenAI Playground
+- ChatGPT
+- Midjourney (untuk AI berbasis gambar)
+- Prompt Engineering (Coursera, Udacity, dll.)
+
+---
+> **Catatan:** Latih kemampuan membuat prompt dengan mencoba berbagai variasi dan melihat hasilnya.
+
